@@ -19,3 +19,5 @@ Get-QADComputer -SearchRoot 'difc.root01.org/machines/workstations/ms' -Inactive
 
 "Accounts disabled, moved and password changed"
 "Have a nice day"
+
+#Org mentioned Doesn't exist anymore#
